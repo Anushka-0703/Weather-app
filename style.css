@@ -96,3 +96,6 @@ main {
      color: #ede3dd;
      font-weight: 700;
 }
+.weather{
+     display:none;
+}
